@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104269264307",
+    "project_id": "jobsy-f1403",
+    "storage_bucket": "jobsy-f1403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104269264307:android:42953b45977281742c47c6",
+        "android_client_info": {
+          "package_name": "com.example.jobsy_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104269264307-5eno0e535ro79rk67dvfdut9lblciba4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FQe7mUcqWFopzbw0We4d2MiNupw_w7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104269264307-5eno0e535ro79rk67dvfdut9lblciba4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
