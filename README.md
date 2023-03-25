@@ -1,4 +1,7 @@
 # Jobsy-App
 CTSE Project
 
-Products Adding by Entrepreneur
+**by Entrepreneur**
+*Products Adding 
+*Product List View
+*Product Deleting
