@@ -87,7 +87,7 @@ class _SignUpState extends State<SignUp> with TickerProviderStateMixin{
       builder: (context)
       {
         return AlertDialog(
-          title: const Text('Please choose an option'),
+          title: const Text('Choose an option'),
           content: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
