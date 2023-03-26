@@ -2,8 +2,8 @@ class Persistent
 {
   static List<String> productCategoryList = [
     'Clothing & Apparel',
-    'Footwear & Shoes',
-    'Electronics & Gadgets',
+    'Shoes & Footwear',
+    'Gadgets & Electronics',
     'Hand & Power Tools',
     'Furniture',
     'Sports Products',
